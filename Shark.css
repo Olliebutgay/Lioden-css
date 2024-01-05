@@ -1,6 +1,6 @@
 body {
 background: #012A36 !important;
-color: #F4F7F5 !important;
+color: #001A23 !important;
 font-family:’Marker Felt’;
 }
 
@@ -62,19 +62,19 @@ background: #000406 !important;
 
 .breadcrumb {
 background: #350306 !important;
-color: #F4F7F5 !important;
+color: #001A23 !important;
 border: 1px solid #000000 !important;
 }
 
 .feature {
 background: #350306 !important;
-color: #F4F7F5 !important;
+color: #001A23 !important;
 border: 1px solid #000000 !important;
 }
 
 .topbar {
 background: #350306 !important;
-color: #F4F7F5 !important;
+color: #001A23 !important;
 border: 1px solid #000000 !important;
 border-top: none !important;
 border-bottom: 4px solid #000000 !important;
@@ -94,7 +94,7 @@ box-shadow: none !important;
 
 .chat_light {
 background: none !important;
-color: #F4F7F5 !important;
+color: #001A23 !important;
 border: none !important;
 text-align: center !important;
 }
